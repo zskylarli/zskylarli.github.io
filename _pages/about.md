@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Skylar (Zhuoyan) Li and I am currently a Computational Biologist in the [Satija Lab](https://satijalab.org/), located at the New York Genome Center and affiliated with the NYU Center for Genomics and Systems Biology. After growing up and attending high school in Japan, I attended the Fu Foundation of Engineering and Applied Sciences at Columbia University and graduated with a B.S. in Biomedical Engineering with a Minor in Art History.
+Hello! My name is Skylar (Zhuoyan) Li and I am currently a Computational Biologist in the [Satija Lab](https://satijalab.org/), located at the New York Genome Center and affiliated with the NYU Center for Genomics and Systems Biology. After growing up and attending high school in Japan, I attended the Fu Foundation of Engineering and Applied Sciences at Columbia University and graduated with a B.S. in Biomedical Engineering with a Minor in Art History.
 
 My current research focuses on large-scale analyses of single-cell genomics data using advanced computational and statistical methods. Specifically, I am interested in leveraging single-cell atlases to identify cell identities and contexutualize transcriptomic information by integrating observational data, with the ultimate goal of discovering underlying gene regulation mecahnisms responsible for stratifing biological responses. 
 
