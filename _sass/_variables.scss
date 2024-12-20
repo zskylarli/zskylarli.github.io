@@ -15,8 +15,8 @@ $cyan-color: #2698ba !default;
 $light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
 $green-color: #00ab37 !default;
 $green-color-lime: #b7d12a !default;
-$green-color-dark: #009f06 !default;
-$green-color-light: #ddffdd !default;
+$green-color-dark: #456990 !default;
+$green-color-light: #458f9a !default;
 $green-color-bright: #11d68b !default;
 $purple-color: #b509ac !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
@@ -29,9 +29,9 @@ $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
 
-$white-color: #ffffff !default;
+$white-color: #f8f8f8 !default;
 $black-color: #000000 !default;
-
+$columbia-blue-color: #B4D2E7 !default;
 // Theme colors
 
 $code-bg-color-light: rgba($purple-color, 0.05);

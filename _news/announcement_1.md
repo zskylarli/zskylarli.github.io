@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My work on Seurat v.5.1.0 for VisiumHD spatial transcriptomics data support is live, with an accompanying [vignette](https://satijalab.org/seurat/articles/visiumhd_analysis_vignette) :confetti_ball::microscope:
+Our work on Seurat v.5.1.0 for VisiumHD spatial transcriptomics data support is live, with an accompanying [vignette](https://satijalab.org/seurat/articles/visiumhd_analysis_vignette) :confetti_ball::microscope:
